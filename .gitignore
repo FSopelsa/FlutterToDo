@@ -1,0 +1,54 @@
+# General
+.DS_Store
+*.class
+*.log
+*.pyc
+*.swp
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Android Studio build artifacts
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# iOS/Xcode related
+**/ios/Flutter/ephemeral/
+**/Pods/
+xcuserdata
+Flutter/ephemeral/
+
+# macOS
+**/Flutter/ephemeral/
+**/Pods/
+**/xcuserdata/
+
+# Linux & Windows build files
+flutter/ephemeral/
+x64/
+x86/
+
+# Images and assets (if you decide to exclude them)
+# assets/images/
